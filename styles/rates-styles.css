@@ -23,6 +23,7 @@ aside{
 	border-style: solid;
 	border-color:navy;
 	border-width: .3rem;
+	margin:1rem;
 }
 
 li{
