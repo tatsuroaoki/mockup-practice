@@ -5,6 +5,7 @@ body{
 
 .main-page{
 	display:inline-flex;
+	width:100%;
 }
 
 article{

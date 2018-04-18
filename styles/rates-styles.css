@@ -10,6 +10,7 @@ body{
 
 .main-page{
 	display:inline-flex;
+	width:100%;
 }
 
 article{
@@ -17,13 +18,13 @@ article{
 }
 
 aside{
-	width:35%;
 	background-color: black;
 	color:white;
 	border-style: solid;
 	border-color:navy;
 	border-width: .3rem;
-	margin:1	rem;
+	margin:1rem;
+	width:35%;
 }
 
 li{
