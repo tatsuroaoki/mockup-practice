@@ -1,0 +1,30 @@
+body{
+	color:black;
+	margin:1rem;
+}
+
+.title{
+	text-align: center;
+	background-color:lightgray;
+}
+
+.main-page{
+	display:inline-flex;
+}
+
+article{
+	width:65%
+}
+
+aside{
+	width:35%;
+	background-color: black;
+	color:white;
+	border-style: solid;
+	border-color:navy;
+	border-width: .3rem;
+}
+
+li{
+	margin:1rem 0rem;
+}

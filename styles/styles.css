@@ -1,0 +1,105 @@
+body{
+	background-color: black;
+	color:white;
+	font-family:"Helvetica", sans-serif;
+}
+
+.booking{
+	text-align: right;
+	margin-top:1rem;
+	margin-right: 1rem;
+}
+
+.title{
+	margin:1rem 0rem 0rem 0rem;
+	padding:.1rem 0rem 0.2rem 1rem;
+}
+
+.sub-title{
+	color:lightgrey;
+	margin:0.1rem 0rem 1rem 0rem;
+	padding-left:1rem;
+}
+
+.nav{
+	background-color:lightgrey;
+	padding:0.5rem;
+	padding-left:1rem;
+}
+
+.menu{
+	padding:0.5rem;
+	color:purple;
+}
+
+.article{
+	background-color:white;
+	color:black;
+	padding:1rem;
+	width:55%;
+}
+
+.testimonial{
+	font-style:italic;
+}
+
+.aside{
+	width:45%;
+	border-width: thin;
+	border-style:solid;
+	border-color:black;
+	background-color:white;
+	color:black;
+	text-align: center;
+	margin:1rem 0.1rem;
+	padding-bottom:1rem;
+}
+
+.cat-name{
+	margin:0.2rem;
+}
+
+#cat-of-the-week{
+	display:inline-flex;
+	text-align-l
+	margin:.5rem;
+}
+
+#fan-favorites{
+	display:inline-flex;
+	margin:.5rem;
+}
+
+.main-page{
+	display:inline-flex;
+	background-color: white;
+}
+
+img{
+	width:75%;
+}
+
+a{
+	color:red;
+}
+
+h6{
+	margin:0 2rem 0 0;
+	text-align: left;
+}
+
+.book-now{
+	text-align: right;
+}
+
+#book-now{
+	text-align: right;
+	margin-right:1.3rem;
+}
+
+footer{
+	padding-left:0.5rem;
+}
+.copyright{
+	text-align: center;
+}
